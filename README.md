@@ -2,7 +2,8 @@
 
 A command-line interface (CLI) tool that fetches and displays the recent activity of any GitHub user. Built entirely with Python's standard library (no external dependencies required).
 
-**Project URL:** [https://github.com/Punxxet/GitHub_User_Activity](https://github.com/Punxxet/GitHub_User_Activity.git)
+**Project Link:** [https://github.com/Punxxet/GitHub_User_Activity](https://github.com/Punxxet/GitHub_User_Activity.git)
+**RoadMap.sh Project** [https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity)
 
 ## Features
 - Fetches real-time event data using the GitHub API.
